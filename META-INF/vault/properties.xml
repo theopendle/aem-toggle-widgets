@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>FileVault Package Properties</comment>
+<entry key="createdBy">admin</entry>
+<entry key="name">aem-toggle-widgets</entry>
+<entry key="lastModified">2020-04-04T10:25:51.399+02:00</entry>
+<entry key="lastModifiedBy">admin</entry>
+<entry key="created">2020-04-04T10:25:51.420+02:00</entry>
+<entry key="buildCount">1</entry>
+<entry key="version"/>
+<entry key="packageType">application</entry>
+<entry key="dependencies"/>
+<entry key="packageFormatVersion">2</entry>
+<entry key="description"/>
+<entry key="lastWrapped">2020-04-04T10:25:51.399+02:00</entry>
+<entry key="group">my_packages</entry>
+<entry key="lastWrappedBy">admin</entry>
+</properties>

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Content-Package-Roots: /apps/demo/components/content/demo,/apps/demo/c
+ lientlibs/clientlib-editor
+Content-Package-Type: application
+Content-Package-Id: my_packages:aem-toggle-widgets
+
